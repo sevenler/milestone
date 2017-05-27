@@ -5,13 +5,13 @@
   },
   {
     "action": "connect",
-    "eventUrl": ["https://example.com/events","https://example.com/backup"],
+    "eventUrl": ["http://104.154.61.87:8000/number/callback/nexmo/voice_event"],
     "timeout": "30",
     "from": "8615920480376",
      "endpoint": [
       {
         "type": "phone",
-        "number": "8615920480376"
+        "number": "8618664366579"
       }
     ]
   }
