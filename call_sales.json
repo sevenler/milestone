@@ -10,8 +10,8 @@
     "from": "8615920480376",
      "endpoint": [
       {
-        "type": "phone",
-        "number": "8618664366579"
+        "type": "sip",
+        "number": "test4@35.185.130.154"
       }
     ]
   }
