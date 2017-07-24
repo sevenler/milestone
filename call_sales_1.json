@@ -1,9 +1,5 @@
 [
   {
-    "action": "talk",
-    "text": "Please wait while we connect you"
-  },
-  {
     "action": "connect",
     "from": "441632960960",
     "endpoint": [
@@ -12,5 +8,9 @@
         "uri": ""
       }
     ]
+  },
+  {
+    "action": "talk",
+    "text": "Please wait while we connect you"
   }
 ]
