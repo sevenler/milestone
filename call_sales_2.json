@@ -1,0 +1,12 @@
+[
+  {
+    "action": "connect",
+    "from": "441632960960",
+    "endpoint": [
+      {
+        "type": "sip",
+        "uri": ""
+      }
+    ]
+  }
+]
